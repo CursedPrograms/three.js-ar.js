@@ -27,7 +27,7 @@
 
 <br>
 
-## Augmented Reality Resources
+## Additional Resources
 
 Explore more augmented reality resources here:  
 [Augmented Reality Resources](https://github.com/CursedPrograms/Augmented-Reality-Resources)
