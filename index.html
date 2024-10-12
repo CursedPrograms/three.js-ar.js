@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>AR.js</title>
+	<link rel=stylesheet href="index.css" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://cursedprograms.github.io/cursedentertainment/cursedFavicon.png" rel="icon" type="image/x-icon" />
+</head>
+
+<body>
+
+	<div class="bigTitle">AR.js</div>
+	<div class="button-container">
+		<a class="button" href="pages/basic.html">
+			<span>Hello, AR World!</span>
+			<p>A basic scene that places plain and textured shapes on markers (kanji, barcodes 0/1/2).</p>
+		</a>
+	
+		<a class="button" href="pages/models.html">
+			<span>3D model</span>
+			<p>A single gltf model attached to a marker.</p>
+		</a>
+	
+		<a class="button" href="pages/cubemap.html">
+			<span>Multi-Textured Cube</span>
+			<p>A cube with different images on each side, attached to a marker. <br />Uses the aframe-multisrc component.</p>
+		</a>
+	
+		<a class="button" href="pages/animation.html">
+			<span>Animation</span>
+			<p>Animating (rotating) a globe attached to a marker, using the built-in animation component.</p>
+		</a>
+	
+		<a class="button" href="pages/text.html">
+			<span>Text (2D and 3D)</span>
+			<p>Attaching text to the kanji and hiro markers.<br />3D text uses the aframe-text-geometry component.</p>
+		</a>
+	
+		<a class="button" href="pages/particles.html">
+			<span>Particle Effects</span>
+			<p>Creating a particle system effect, attached to a marker.<br />Uses the aframe-particle system component.</p>
+		</a>
+	
+		<a class="button" href="pages/scripting.html">
+			<span>Introduction to Scripting</span>
+			<p>Rotates a globe attached to a marker, by writing an A-Frame component and modifying the underlying Three.js object.</p>
+		</a>
+	
+		<a class="button" href="pages/canvas.html">
+			<span>Canvas Textures</span>
+			<p>Using an HTML canvas as the texture for a cube; creating an animation ("bouncing block") on the canvas and updating the cube texture.</p>
+		</a>
+	
+		<a class="button" href="pages/detection.html">
+			<span>Detection</span>
+			<p>A cube is attached to a kanji marker. Red, yellow, and blue squares are attached to barcode markers 0, 1, and 2.</p>
+		</a>
+	
+		<a class="button" href="pages/follower.html">
+			<span>Persistence and Following</span>
+			<p>A green square is attached to a marker. If the marker is no longer visible, the square turns red.</p>
+		</a>
+	
+		<a class="button" href="pages/line.html">
+			<span>Line between two markers</span>
+			<p>Drawing a line between the centers of barcode markers 0 and 1.</p>
+		</a>
+	
+		<a class="button" href="pages/line2.html">
+			<span>Cylinder between two markers</span>
+			<p>Drawing spheres at the centers of barcode markers 0 and 1, and creating a cylinder between them.</p>
+		</a>
+	</div>
+	<footer id="dynamicFooter"></footer>
+	<script src="https://cursedprograms.github.io/cursedentertainment/scripts/footer.js"></script>
+</body>
+
+</html>

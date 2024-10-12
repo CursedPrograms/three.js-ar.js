@@ -1,0 +1,4 @@
+*.svg linguist-vendored=false
+*.svg linguist-generated=false
+*.svg linguist-documentation=false
+*.svg linguist-detectable=true
