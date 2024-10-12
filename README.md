@@ -27,16 +27,26 @@
 
 <br>
 
-https://github.com/CursedPrograms/Augmented-Reality-Resources
+## Augmented Reality Resources
+
+Explore more augmented reality resources here:  
+[Augmented Reality Resources](https://github.com/CursedPrograms/Augmented-Reality-Resources)
 
 <br>
 
+## AR.js Documentation
+
+For detailed documentation on AR.js, refer to:  
 [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 
-https://github.com/CursedPrograms/ARToolkit-Unity-Template/tree/main/doc/patterns
+<br>
 
-https://github.com/CursedPrograms/ARToolkit-Unity-Template
+## ARToolkit Unity Template
 
+Explore the ARToolkit Unity Template and related pattern files:
+
+- **Kanji Patterns**: [Pattern Documentation](https://github.com/CursedPrograms/ARToolkit-Unity-Template/tree/main/doc/patterns)
+- **Unity Template Repository**: [ARToolkit Unity Template](https://github.com/CursedPrograms/ARToolkit-Unity-Template)
 
 <br>
 <div align="center">
