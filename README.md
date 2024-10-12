@@ -24,12 +24,18 @@
 
 # ar.js
 
+![Demo Image](https://github.com/CursedPrograms/ar.js/blob/main/demo.png?raw=true)
+
+<br>
+
 [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 
 https://github.com/CursedPrograms/ARToolkit-Unity-Template/tree/main/doc/patterns
 
 https://github.com/CursedPrograms/ARToolkit-Unity-Template
 
+
+<br>
 <div align="center">
 Cursed Entertainment 2024
 </div>
