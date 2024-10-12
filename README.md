@@ -24,7 +24,7 @@
 
 # ar.js
 
-![Demo Image](https://github.com/CursedPrograms/ar.js/blob/main/demo.png?raw=true)
+
 
 <br>
 
