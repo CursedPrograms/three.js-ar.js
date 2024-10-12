@@ -25,6 +25,9 @@
 # ar.js
 
 
+<br>
+
+https://github.com/CursedPrograms/Augmented-Reality-Resources
 
 <br>
 
