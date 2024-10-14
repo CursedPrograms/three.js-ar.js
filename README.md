@@ -1,3 +1,5 @@
+[![Twitter: @NorowaretaGemu](https://img.shields.io/badge/X-@NorowaretaGemu-blue.svg?style=flat)](https://x.com/NorowaretaGemu)
+
 <br>
 <div align="center">
   <a href="https://ko-fi.com/cursedentertainment">
@@ -6,8 +8,8 @@
 </div>
 <br>
 
-<a href="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml">
-    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/website-template/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
+<a href="https://github.com/CursedPrograms/ar.js/actions/workflows/proof-html.yml">
+    <img class="workflow-badge workflow-success" src="https://github.com/CursedPrograms/ar.js/actions/workflows/proof-html.yml/badge.svg" alt="Proof HTML Workflow">
 </a>
 <br>
 <div align="center">
